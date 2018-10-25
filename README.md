@@ -20,11 +20,11 @@ These are the prerequisites before you try to read (and understand) this project
 ### **Project Overview**
 This is what you can expect from this project:
 
-![Screenshot from Submission 1]
+![Screenshot from Submission 1](https://github.com/Ajisaputrars/Submission-3-Football-Match-Schedule-App-Swift-iOS/blob/master/IMG.png)
 
-The main page consists of a UITableView and a UISegmentedControl with 2 segments, and the cell consists of 5 UILabels to show Home Team name, Home Team score, Away Team name, Away Team score, and the date. First segment will present 15 last event, and second segment will present 15 next event.
+The main page consists of a UITableView and a UISegmentedControl with 3 segments, and the cell consists of 5 UILabels to show Home Team name, Home Team score, Away Team name, Away Team score, and the date. First segment will present 15 last event, second segment will present 15 next event, and the third segment will present all saved event.
 
-The detail page will show the detail information about the score of each team, the goal scorer, the team lineup of each team, as well as team badge image for each team.
+The detail page will show the detail information about the score of each team, the goal scorer, the team lineup of each team, as well as team badge image for each team. Now it has "Star" to save the event, and "Unstar" to delete the event from the Core Data.
 
 ### **What Will You Learn**
 These are all about what you will learn from this project:
@@ -43,9 +43,9 @@ Core Data is a data persistance, to save a data as an object. Core Data is built
 
 ### **Author**
 
-* **[Aji Saputra Raka Siwi]**
+* **![Aji Saputra Raka Siwi](https://github.com/Ajisaputrars)**
 
 This project is free and open. You can participate to this project to make even more better for everybody to learn.
 
 ### **License**
-This project is licensed under the GNU General Public License v3.0 - see the [**LICENSE.md**] file for details.
+This project is licensed under the GNU General Public License v3.0 - see the ![License](https://github.com/Ajisaputrars/Submission-3-Football-Match-Schedule-App-Swift-iOS/blob/master/LICENSE) file for details.
