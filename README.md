@@ -4,7 +4,7 @@ Football Club app uses data from TheSportsDB (open API) and presents the informa
 
 ### **Objectives**
 These are the objectives of this project:
-1. Same as **Submission 2 - Football Club App (Swift / iOS)** project.
+1. Same as **[Submission 2 - Football Club App (Swift / iOS)](https://github.com/Ajisaputrars/Submission-2-Football-Match-Schedule-App-Swift-iOS)** project.
 2. Save Event (using Core Data).
 3. Delete Event
 
