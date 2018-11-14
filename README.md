@@ -49,3 +49,7 @@ This project is free and open. You can participate to this project to make even 
 
 ### **License**
 This project is licensed under the GNU General Public License v3.0 - see the [License](https://github.com/Ajisaputrars/Submission-3-Football-Match-Schedule-App-Swift-iOS/blob/master/LICENSE) file for details.
+
+---- 
+
+Copyright © 2018 **Aji Saputra Raka Siwi**
